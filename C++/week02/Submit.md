@@ -69,10 +69,13 @@ int main()
     return 0;
 }
 ```
+
 **运行结果：**
 ![[Pasted image 20220924113709.png]]
 3.创建一个复数类complex，私有成员包括实部real和虚部imag，初始化使用init成员函数，计算幅值使用amplitude成员函数，计算相角用phase成员函数，同时为complex定义加减乘除四则运算add，subtract，multiply，divide四个成员函数。
+
 **代码：**
+
 ```c++
 #include <iostream>
 #include <math.h>
@@ -118,10 +121,15 @@ int main()
     return 0;
 }
 ```
+
 **运行结果：**
+
 ![[Pasted image 20220924121957.png]]
+
 4.编写一个包含：(1)类定义的头文件student.h；(2)成员函数定义的源文件student.cpp；(3)主函数的源文件main.cpp。student类的私有数据成员包括：学号num，姓名name，性别sex。定义其普通构造函数、拷贝构造函数。并定义成员函数display完成学号，姓名和性别信息的输出。
+
 **代码：**
+
 ```c++
 //student.h
 #ifndef STUDENT_H_
@@ -186,7 +194,10 @@ int main()
     return 0;
 }
 ```
+
 **运行结果：**
+
 ![[Pasted image 20220924170257.png]]
+
 ## 三、心得体会
 通过本次上机实验，我熟悉了C++类的基本操作以及多文件链接、编译的基本原理。同时，在编写程序的过程中，解决了一系列的小问题，比如输入学号时，刚开始定义num为double型，需要对输出的结果禁止科学计数法表示。最后综合考虑，选择使用字符串表示学号。
