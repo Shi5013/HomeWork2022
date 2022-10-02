@@ -176,8 +176,7 @@ int main()
 ```
 
 **运行结果：**
-
-![[Pasted image 20221002203821.png]]
+![Result2](https://github.com/Shi5013/HomeWork2022/blob/main/C%2B%2B/week03/Pasted%20image%2020221002203821.png)
 
 3.分别声明Teacher(教师)类和Cadre(干部)类，采用多重继承方式由这两个类派生出新的类Teacher_Cadre类。要求：
 
@@ -323,8 +322,7 @@ int main()
 ```
 
 **运行结果：**
-
-![[Pasted image 20221002204900.png]]
+![Result3](https://github.com/Shi5013/HomeWork2022/blob/main/C%2B%2B/week03/Pasted%20image%2020221002204900.png)
 
 ## 三、心得体会
 通过本次的上机实验，我熟悉了类的继承与多重继承，编写了简单的程序进行实践。加深了对C++的理解。
