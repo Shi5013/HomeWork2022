@@ -86,7 +86,8 @@ int main()
 
 **运行结果：**
 
-![[Pasted image 20221002203235.png]]
+
+![Reault1](https://github.com/Shi5013/HomeWork2022/blob/main/C%2B%2B/week03/Pasted%20image%2020221002203235.png)
 
 2.
 
