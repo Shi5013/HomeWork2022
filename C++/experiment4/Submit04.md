@@ -40,7 +40,9 @@ int main()
 ```
 
 **结果：**
-![Result 1] (https://github.com/Shi5013/HomeWork2022/blob/main/C%2B%2B/experiment4/Pasted%20image%2020221008222204.png)
+
+![Result 1](https://github.com/Shi5013/HomeWork2022/blob/main/C%2B%2B/experiment4/Pasted%20image%2020221008222204.png)
+
 2.编写一个程序，重载运算符"`==`",用于判断两个N维向量是否相等。
 
 **代码:**
@@ -114,8 +116,9 @@ int main()
 ```
 
 **运行结果：**
-![Result 2] (https://github.com/Shi5013/HomeWork2022/blob/main/C%2B%2B/experiment4/Pasted%20image%2020221008222811.png
-)
+
+![Result 2](https://github.com/Shi5013/HomeWork2022/blob/main/C%2B%2B/experiment4/Pasted%20image%2020221008222811.png)
+
 3.编写一个复数类complex用友元函数重载运算符"+",对两个复数进行加法操作。
 4.编写一个复数类complex，用成员函数重载复合运算符"`*`",对两个复数进行乘法运算。
 
@@ -184,7 +187,9 @@ int main()
 ```
 
 **结果：**
+
 ![Result 34](https://github.com/Shi5013/HomeWork2022/blob/main/C%2B%2B/experiment4/Pasted%20image%2020221008223247.png)
+
 5.已知有类的定义如下：
 ```c++
 class Base
@@ -262,7 +267,9 @@ int main()
 ```
 
 **结果：**
+
 ![Result 5](https://github.com/Shi5013/HomeWork2022/blob/main/C%2B%2B/experiment4/Pasted%20image%2020221008224824.png)
+
 6.写一个程序，定义抽象基类Shape,它有三个公有派生类：类Circle来描述圆形，类Rectangle来描述矩形，类Triangle来描述三角形。用虚函数area()分别来计算几种图形的面积，并求他们的和。
 
 **代码：**
